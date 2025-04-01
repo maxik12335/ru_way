@@ -66,6 +66,7 @@ ul {
 	height: 50%;
 	transform: skew(20deg);
 	background: #5555553a;
+  background: linear-gradient(95deg, rgba(255, 255, 255, 1) 0%, rgb(0 0 0 / 13%) 100%);
   z-index: -1;
 }
 
@@ -77,6 +78,7 @@ ul {
 	height: 50%;
 	transform: skew(-20deg);
 	background: #5555553a;
+  background: linear-gradient(95deg, rgba(255, 255, 255, 1) 0%, rgb(0 0 0 / 13%) 100%);
   z-index: -1;
 }
 
@@ -88,6 +90,7 @@ ul {
 	height: 50%;
 	transform: skew(20deg);
 	background: #5555553a;
+  background: linear-gradient(95deg, rgba(255, 255, 255, 1) 0%, rgb(0 0 0 / 13%) 100%);
   z-index: -1;
 }
 
@@ -99,6 +102,7 @@ ul {
 	height: 50%;
 	transform: skew(-20deg);
 	background: #5555553a;
+  background: linear-gradient(95deg, rgba(255, 255, 255, 1) 0%, rgb(0 0 0 / 13%) 100%);
   z-index: -1;
 }
 
