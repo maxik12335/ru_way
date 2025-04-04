@@ -471,7 +471,7 @@ table tr:nth-child(2n) {
   justify-content: space-between;
 }
 
-.ru-en button {
+.ru-en a {
   background-color: black;
   color: white;
   outline: none;
@@ -483,17 +483,18 @@ table tr:nth-child(2n) {
   justify-content: center;
   cursor: pointer;
   border-radius: 3px;
+  text-decoration: none;
 }
 
 .ru-en .ru-en__button_active:hover {
   background-color: white;
   color: black;
 }
-.ru-en button:hover {
+.ru-en a:hover {
   background-color: rgba(0, 0, 0, 0.466);
 }
 
-button.ru-en__button_active {
+a.ru-en__button_active {
   background-color: white;
   color: black;
 }
