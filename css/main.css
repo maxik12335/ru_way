@@ -729,4 +729,10 @@ button.ru-en__button_active {
   .contacts-map {
     width: 100%;
   }
+  
+  .complectations-bottom__right-3 .img-3 img {
+    width: 49%;
+    height: 170px;
+    object-position: top;
+  }
 }
